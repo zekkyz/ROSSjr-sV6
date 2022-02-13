@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6501c0faa73698bb84049674221ec7fb938e8192",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x8398861d930edde9ff9dc4563faf235b3cad09d3a719466ef7cee4bcbcfb8d4e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ROSSjr's",
+  "SYMBOL": "ROSSJRNFTS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rossjrs",
+  "SHOW_BACKGROUND": true
+}
